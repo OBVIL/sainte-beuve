@@ -1,27 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!--Odette: 2018-01-17T15:25:21+01:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+<?xml-model href="../../teibook/teibook.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Causeries du lundi. Tome I (3<hi rend="sup">e</hi> éd.)</title>
-        <author>Charles-Augustin Sainte-Beuve</author>
+        <author key="Sainte-Beuve, Charles-Augustin (1804-1869)">Charles-Augustin Sainte-Beuve</author>
       </titleStmt>
       <editionStmt>
+      <edition>OBVIL</edition>
+      <respStmt>
+        <name>Éric Thiébault</name>
+        <resp>OCR, Stylage sémantique</resp>
+      </respStmt>
         <respStmt>
-          <name/>
+          <name>Romain Jalabert</name>
+          <resp>Édition TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2018"/>
         <idno>http://obvil.paris-sorbonne.fr/corpus/saint-beuve/sainte-beuve_causeries-du-lundi-ed03_01/</idno>
-        <availability status="restricted"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Sainte-Beuve, Charles-Augustin (1804-1869), <hi rend="i">Causeries du lundi, par C.-A. Sainte-Beuve, de l’Académie française</hi>, tome premier, 3<hi rend="sup">e</hi> éd. revue et corrigée, Paris, Garnier frères, 1857, 454 p. Source : <ref target="https://books.google.fr/books?id=ufBcAAAAMAAJ">Google</ref>. Graphies modernisées.</bibl>
+        <bibl>Charles-Augustin Sainte-Beuve, <title>Causeries du lundi, par C.-A. Sainte-Beuve, de l’Académie française</title>, tome premier, 3<hi rend="sup">e</hi> éd. revue et corrigée, Paris, Garnier frères, 1857, 454 p. Source : <ref target="https://books.google.fr/books?id=ufBcAAAAMAAJ">Google</ref>. Graphies modernisées.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -29,7 +42,7 @@
         <date when="1857"/>
       </creation>
       <langUsage>
-        <language>fre</language>
+        <language ident="fr"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
