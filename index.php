@@ -53,7 +53,7 @@ else {
 if ($doc) {
   echo '
   <nav id="download"><small>Télécharger :</small>
-    <a target="_blank" href="http://obvil.github.io/ecole/manuels/'.$doc['code'].'.xml" title="XML/TEI">tei</a>,
+    <a target="_blank" href="https://obvil.github.io/critique/sainte-beuve/'.$doc['code'].'.xml" title="XML/TEI">tei</a>,
     <a target="_blank" href="epub/'.$doc['code'].'.epub" title="Livre électronique">epub</a>,
     <a target="_blank" href="kindle/'.$doc['code'].'.mobi" title="Mobi, format propriétaire Amazon">kindle</a>,
     <a target="_blank" href="markdown/'.$doc['code'].'.md" title="Markdown">texte brut</a>,
