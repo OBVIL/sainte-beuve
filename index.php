@@ -39,13 +39,13 @@ echo 'Haine du théâtre, OBVIL';
         <h1>
           <?php
 if (!$path && $base->search) echo '<a href="'.$basehref.'">'.$conf['title'].'</a>';
-else if (!$path) echo '<a href="http://obvil.sorbonne-universite.site/projets/sainte-beuve">Projet : '.$conf['title'].'</a>';
+else if (!$path) echo '<a href="http://obvil.sorbonne-universite.fr/projets/sainte-beuve">Projet : '.$conf['title'].'</a>';
 else {
   echo '<a href="'.$basehref.'?'.$_COOKIE['lastsearch'].'">'.$conf['title'].'</a>';
 }
           ?>
         </h1>
-        <a class="logo" href="http://obvil.sorbonne-universite.site/"><img class="logo" src="<?php echo $basehref; ?>../theme/img/logo-obvil.png" alt="OBVIL"></a>
+        <a class="logo" href="http://obvil.sorbonne-universite.fr/"><img class="logo" src="<?php echo $basehref; ?>../theme/img/logo-obvil.png" alt="OBVIL"></a>
       </header>
       <div id="contenu">
         <aside id="aside">
