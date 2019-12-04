@@ -59,19 +59,20 @@
                 <date when="1870"/>
             </creation>
             <langUsage>
-                <language ident="fre">fre</language>
+                <language ident="fre"/>
             </langUsage>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
             <head>Tome XIII</head>
-            <div type="article" id="">
+            <div>
                 <head><hi rend="i">Lettres inédites de Voltaire</hi>, recueillies par M. de Cayrol,
                     annotées par M. A. François, avec une préface de M. Saint-Marc Girardin<note
                         place="bottom" resp="author">[NdA] Deux vol. in-8°, chez Didier, libraire, quai des
                         Auguslins, 35.</note>.</head>
-                <div type="article" id="">
+            </div>
+                <div type="article" xml:id="art_1856-10-20">
                     <head>I</head>
                     <dateline>Lundi, 20 octobre 1856.</dateline>
                     <p rend="indent"><pb n="1"/>La vérité sur les hommes comme sur les choses est
@@ -676,7 +677,7 @@
                         en prenant autant que possibles nos preuves et témoignages dans le recueil
                         nouveau.</p>
                 </div>
-                <div type="article" id="">
+                <div type="article" xml:id="art_1856-10-27">
                     <head>II</head>
                     <dateline>Lundi, 17 octobre 1856.</dateline>
                     <p rend="indent"><pb n="21"/>Le voyage de Prusse et son essai d’établissement à
@@ -1250,13 +1251,12 @@
                         gentillesse de parole et d’esprit ; il s’est donc adressé à M. Saint-Marc
                         Girardin, qui a répondu à son appel par une lettre ou préface très vive,
                         très spirituelle, parfaitement judicieuse, un peu indulgente, mais tout à
-                        fait digne, par son tour preste et dégagé, d’ouvrir cette lecture des
-                        lettres de Voltaire.</p>
+                        fait digne, par son tour preste et dégagé, d’ouvrir cette lecture des lettres de Voltaire.</p>
                 </div>
-            </div>
-            <div type="article" id="">
+                        
+                        <div>
                 <head>Le maréchal de Villars</head>
-                <div type="article" id="">
+                <div type="article" xml:id="art_1856-11-10">
                     <head>I</head>
                     <dateline>Lundi, 10 novembre 1856.</dateline>
                     <p rend="indent"><pb n="39"/>On déprécie trop Villars depuis quelque temps. Le
@@ -1745,7 +1745,7 @@
                         il garda jusqu’à l’extrême vieillesse, et quand il prenait Milan en 1734, la
                         vivacité de son feu et de son allure.</p>
                 </div>
-                <div type="article" id="">
+                <div type="article" xml:id="art_1856-11-17">
                     <head>II</head>
                     <dateline>Lundi, 17 novembre 1856.</dateline>
                     <p rend="indent">
@@ -2510,7 +2510,7 @@
                         sa brillante nature si décidée et si en dehors, je dépeins peut-être plus
                         d’un homme en sa personne et plus d’un vaillant guerrier·</p>
                 </div>
-                <div type="article" id="">
+                <div type="article" xml:id="art_1856-11-24">
                     <head>III</head>
                     <dateline>Lundi, 24 novembre 1856.</dateline>
                     <p rend="indent">
@@ -3165,7 +3165,7 @@
                         fin à l’égard de ce grand militaire, qui était à la fois un homme de
                         beaucoup d’esprit.</p>
                 </div>
-                <div type="article" id="">
+                <div type="article" xml:id="art_1856-12-01">
                     <head>IV</head>
                     <dateline>Lundi, 1<hi rend="sup">er</hi> décembre 1856.</dateline>
                     <p rend="indent">
@@ -3789,9 +3789,9 @@
                         sentiment de sa juste gloire ; mais alors il eût été un autre ; et il était
                         surtout un talent, un beau zèle et une fortune.</p>
                 </div>
-                <div type="article" id="">
+                <div type="article" xml:id="art_1856-12-02">
                     <head>V</head>
-                    <dateline>Mardi, 1 décembre 1956.</dateline>
+                    <dateline>Mardi, 2 décembre 1856.</dateline>
                     <p rend="indent">
                         <hi rend="i">Villars au repos ; — à l’Académie. — Une lettre de lui à
                             Voltaire. — Maréchal général, envoyé en Italie. — Sa dernière
@@ -4066,13 +4066,14 @@
                             compléter une histoire de Villars à l’aide de celle du prince Eugène,
                             publiée à Vienne par M. Alfred Arneth, et en consultant les documents
                             militaires, les lettres et dépêches du grand capitaine.</note>.</p>
-                </div>
+                
+                 </div>
             </div>
-            <div type="article" id="">
+            <div>
                 <head><hi rend="i">Histoire de la querelle des anciens et des modernes</hi> par
                     M. Hippolyte Rigault<note place="bottom" resp="author">[NdA] Chez Hachette, rue Pierre
                         Sarrazin, n° 14.</note></head>
-                <div type="article" id="">
+                <div type="article" xml:id="art_1856-12-15">
                     <head>[Introduction]</head>
                     <dateline>Lundi, 15 décembre 1856.</dateline>
                     <p rend="indent"><pb n="132"/>M. Rigault, dont chacun peut lire dans les <hi
@@ -4373,7 +4374,7 @@
                         en vaut la peine. M. Rigault n’y a vu qu’un grotesque : pourquoi l’esprit
                         serait-il si rigoureux contre l’esprit ?</p>
                 </div>
-                <div type="article" id="">
+                <div type="article" xml:id="art_1856-12-16">
                     <head>I</head>
                     <p rend="indent">
                         <hi rend="i">L’abbé de Pons ; — au café Gradot ; — chez M. <hi rend="sup"
@@ -4644,7 +4645,7 @@
                         La Motte et en se faisant son lieutenant, qu’il n’est pas juste d’estimer
                         l’un et de mépriser l’autre.</p>
                 </div>
-                <div type="article" id="">
+                <div type="article" xml:id="art_1856-12-22">
                     <head>II</head>
                     <dateline>Lundi, 22 décembre 1856.</dateline>
                     <p rend="indent"><hi rend="i">L’abbé de Pons à l’avant-garde. — Guerre aux
@@ -5340,7 +5341,7 @@
                         seconde édition.</p>
                 </div>
             </div>
-            <div type="article" id="">
+            <div type="article" xml:id="art_1857-01-19">
                 <head>Tallemant et Bussy ou le médisant bourgeois et le médisant de qualité</head>
                 <dateline>Lundi, 19 janvier 1857.</dateline>
                 <p rend="indent"><pb n="172"/>Le <num>xvii<hi rend="sup">e</hi></num> siècle est à
@@ -5798,7 +5799,7 @@
                     un genre après tout peu élevé, qui semble facile, et qui est médiocrement
                     honorable. Mais chacun donne ce qu’il peut.</p>
             </div>
-            <div type="article" id="">
+            <div type="article" xml:id="art_1857-02-02">
                 <head>
                     <hi rend="i">Essais, lettres et pensées de M<hi rend="sup">me</hi>  de
                         Tracy</hi>
@@ -6489,7 +6490,7 @@
                         ces traits passionnément ou agréablement bizarres qui distinguent les filles
                         d’Albion.</note>.</p>
             </div>
-            <div type="article" id="">
+            <div type="article" xml:id="art_1857-02-16">
                 <head><hi rend="i">Histoire du règne de Henri IV</hi>, par M. Poirson<note
                         place="bottom" resp="author">[NdA] Trois vol., 1856. Louis Colas, rue Dauphine, n°
                         26.</note></head>
@@ -7105,7 +7106,7 @@
                         leur vie d’autre chose encore que des lettres, n’y reviennent jamais qu’avec
                         plus de rectitude et de haut bon sens.</note>.</p>
             </div>
-            <div type="article" id="">
+            <div type="article" xml:id="art_1857-02-23">
                 <head>Guillaume Favre de Genève ou l’étude pour l’étude<note place="bottom" resp="author">[NdA]
                         Mélanges d’histoire littéraire, par Guillaume Favre, avec des lettres
                         inédites d’Auguste-Guillaume de Schlegel et d’Angelo Maï, recueillis par sa
@@ -7575,9 +7576,9 @@
                     esprits de ce genre, en esprits aussi avides de savoir que peu empressés de le
                     dire, on ne pourra s’empêcher de nommer Guillaume Favre.</p>
             </div>
-            <div type="article" id="">
+            <div>
                 <head>Divers écrits de M. H. Taine</head>
-                <div type="article" id="">
+                <div type="article" xml:id="art_1857-03-09">
                     <head>I</head>
                     <dateline>Lundi, 9 mars 1857.</dateline>
                     <p rend="indent"><hi rend="i">Essai sur les fables de La Fontaine</hi>. — <hi
@@ -8119,7 +8120,7 @@
                         de système, en reconnaître au complet, un à un, exemplaire par exemplaire,
                         en recueillir d’analogues et en décrire !</p>
                 </div>
-                <div type="article" id="">
+                <div type="article" xml:id="art_1857-03-16">
                     <head>II</head>
                     <dateline>Lundi, 16 mars 1857.</dateline>
                     <p rend="indent"><pb n="268"/>L’Académie française avait proposé pour sujet d’un
@@ -8600,7 +8601,7 @@
                         action utile, doivent se résoudre à plaire.</p>
                 </div>
             </div>
-            <div type="article" id="">
+            <div type="article" xml:id="art_1857-03-30">
                 <head><hi rend="i">Mémoires ou journal de l’abbé Le Dieu sur la vie et les ouvrages
                         de Bossuet</hi>, publiés pour la première fois par M. l’abbé Guetté
                         <lb/>Tomes <num>iii</num> et <num>iv</num><note place="bottom" resp="author">[NdA]
@@ -9180,7 +9181,7 @@
                     sans vous en douter en propageant jusque dans la littérature moderne le culte
                     des vieux papiers ! On imprime tout désormais ; on ne connaît plus le choix.</p>
             </div>
-            <div type="article" id="">
+            <div type="article" xml:id="art_1857-04-06">
                 <head><hi rend="i">Maine de Biran. Sa vie et ses pensées</hi>, publiées par
                     M. Ernest Naville<note place="bottom" resp="author">[NdA] Paris, Cherbuliez, rue de la
                         Monnaie, 10.</note>.</head>
@@ -9774,7 +9775,7 @@
                             jamais rencontrer ni atteindre, le voilà devenu, sans qu’il s’en soit
                             douté, un guide en matière de certitude, un fondateur !</p></note>.</p>
             </div>
-            <div type="article" id="">
+            <div type="article" xml:id="art_1857-04-20">
                 <head><hi rend="i">Souvenirs militaires et intimes du général vicomte de
                         Pelleport</hi>, publiés par son fils<note place="bottom" resp="author">[NdA] Deux volumes
                         in-8°, avec portrait, fac-similé et cartes spéciales ; chez Didier, quai des
@@ -10464,7 +10465,7 @@
                     livrer à toutes leurs fantaisies, à leurs rêveries aimables (je ne parle que de
                     celles-là) et à leurs poétiques caprices.</p>
             </div>
-            <div type="article" id="">
+            <div type="article" xml:id="art_1857-05-04">
                 <head><hi rend="i">Madame Bovary</hi> par M. Gustave Flaubert<note place="bottom"
                         >[NdA] Michel Lévy frères, rue Vivienne, 2 bis.</note>.</head>
                 <dateline>Lundi, 4 mai 1857.</dateline>
@@ -10937,7 +10938,7 @@
                     médecins distingués, M. Gustave Flaubert tient la plume comme d’autres le
                     scalpel. Anatomistes et physiologistes, je vous retrouve partout !</p>
             </div>
-            <div type="article" id="">
+            <div type="article" xml:id="art_1857-05-11">
                 <head>Alfred de Musset</head>
                 <dateline>Lundi, 11 mai 1857.</dateline>
                 <p rend="indent"><pb n="364"/>C’est un devoir à chaque génération comme à une armée
@@ -11269,7 +11270,7 @@
                     Nivernais et le Maréchal de Saint-Arnaud ont été publiée d’abord dans la <hi
                         rend="i">Revue contemporaine</hi> du 31 janvier et du 31 mai 1857.</p>
             </div>
-            <div type="article" id="">
+            <div type="article" xml:id="art_1857-01-31">
                 <head>Les nièces de Mazarin et son dernier petit-neveu le duc de Nivernais <lb/><hi
                         rend="i">Les Nièces de Mazarin, études de mœurs et de caractères au
                                 <num>xvii<hi rend="sup">e</hi></num> siècle</hi>, par Amédée Renée,
@@ -12343,7 +12344,7 @@
                     s’il aima de tout temps les muses légères, il avait bien réellement en lui une
                     parcelle de l’âme d’Horace.</p>
             </div>
-            <div type="article" id="">
+            <div type="article" xml:id="art_1857-05-30">
                 <head>Le maréchal de Saint-Arnaud <lb/>Ses lettres publiées par sa famille<note
                         place="bottom" resp="author">[NdA] Michel Lévy, 2 vol., in-8°, 1855.</note>, et autres
                     lettres inédites</head>
@@ -13445,7 +13446,7 @@
                     dire : Lisez les lettres du maréchal de Saint-Arnaud.</p>
                 <p>31 mai 1857.</p>
             </div>
-            <div type="article" id="">
+            <div type="article" xml:id="art_1856-04-18">
                 <head>Appendice</head>
                 <p><pb n="453"/>On lit dans <hi rend="i">Le Moniteur</hi> du 18 avril 1856 :</p>
                 <quote>
